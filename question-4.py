@@ -33,8 +33,8 @@ class BankAccount:
         return self.amount * (BankAccount.ROI / 100)
 
 
-account1 = BankAccount("Alice", 1000)
-account2 = BankAccount("Bob", 2000)
+account1 = BankAccount("Pavan", 1000)
+account2 = BankAccount("Kumar", 2000)
 
 
 account1.display()
